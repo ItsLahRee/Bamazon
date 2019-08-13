@@ -15,18 +15,30 @@ user: "root",
 //password
 password: "Happy_Pug19",
 //database
-database: "Bamazon_DB",
+database: "bamazon_DB",
 
-});
+})
 
 // connect to the mysql server and sql database
 connection.connect(function(err) {
   if (err) throw err;
-  // run the start function after the connection is made to prompt the user
-  start();
+  console.log("connection successful!");
+ makeTable();
 });
+  //display list of 10 items for sale (item_id, dept_name, price)
+  var makeTable = function() {
+    connection.query("SELECT * FROM products", function(err,res) {
+      for(var i=0; i<res.length; i++){
+        console.log(res[i]. item_id+ " || "+ res[i].product_name+" || "+
+        res[i].department_name+ " || "+res[i].price+" || "+res[i].
+        stock_quantity+"\n");
 
-//display list of 10 items for sale (id, name, price)
+      }
+    })
+  }
+
+
+
 
 //Prompt user with two questions: ask for the item ID, and the quantity to purchase
 
@@ -37,3 +49,6 @@ connection.connect(function(err) {
 //If there is enough in stock fulfill the customers order
 
 //Update your stock inventory
+
+
+
