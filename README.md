@@ -1,5 +1,5 @@
 # Bamazon
-Online Store for Beauty Products, using Node.js, SQL
+Online Store for Beauty Products, using Node.js, MySQL
 
 
 ## Installation
@@ -8,15 +8,16 @@ GitHub Pages: https://itslahree.github.io/Bamazon/
 
 ## Usage
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+GIF of Bamazon CLI: https://giphy.com/gifs/Up1bkwPNEYBM1x1Tff/html5
 
-Please make sure to update tests as appropriate.
+## Contributing
+Pull requests are welcome, if you'd like to contribute.
 
 ## License
 ItsLahRee 2019
 
 ========================================================================================
+#Instructions
 # Node.js & MySQL
 
 ## Overview
