@@ -8,8 +8,8 @@ GitHub Pages: https://itslahree.github.io/Bamazon/
 
 ## Usage
 
-GIF of Bamazon CLI: 
-<iframe src="https://giphy.com/embed/Up1bkwPNEYBM1x1Tff" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Up1bkwPNEYBM1x1Tff">via GIPHY</a></p>
+GIF of Bamazon CLI: https://media.giphy.com/media/Up1bkwPNEYBM1x1Tff/giphy.gif
+
 
 ## Contributing
 Pull requests are welcome, if you'd like to contribute.
