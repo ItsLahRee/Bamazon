@@ -1,15 +1,16 @@
-# Bamazon
-Online Store for Beauty Products, using Node.js, MySQL
+## Bamazon
 
+Amazon-like storefront web application, taking in orders from customers and depeleting inventory accordingly. 
 
 ## Installation
 
-GitHub Pages: https://itslahree.github.io/Bamazon/
+GitHub Link: https://github.com/ItsLahRee/Bamazon
 
 ## Usage
 
-GIF of Bamazon CLI: https://media.giphy.com/media/Up1bkwPNEYBM1x1Tff/giphy.gif
+Node.js, MySQL, Inquirer npm pkg, Javascript
 
+GIF of Bamazon CLI: https://media.giphy.com/media/Up1bkwPNEYBM1x1Tff/giphy.gif
 
 ## Contributing
 Pull requests are welcome, if you'd like to contribute.
@@ -17,8 +18,8 @@ Pull requests are welcome, if you'd like to contribute.
 ## License
 ItsLahRee 2019
 
-========================================================================================
-#Instructions
+===================================================================================
+#
 # Node.js & MySQL
 
 ## Overview
