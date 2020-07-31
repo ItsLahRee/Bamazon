@@ -2,11 +2,13 @@
 ## Node.Js & MySQL
 
 Bamazon is an "Amazon-like" storefront web application built using back-end technologies. It has a Command-Line Interface (CLI)
-and hooks into an SQL database. It takes in customers orders and automatically depelets the stock from the store inventory. 
+and hooks into an SQL database. It takes in customers orders and automatically depelts the stock from the store inventory. 
 
 My Working Version:
 
 ![Bamazon](https://media.giphy.com/media/Up1bkwPNEYBM1x1Tff/giphy.gif)
+
+[See it live!]( https://lauriestrecker.github.io/Bamazon/)
 
 ## Installation
 
