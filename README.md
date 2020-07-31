@@ -1,22 +1,27 @@
 ## Bamazon
 
-Amazon-like storefront web application, taking in orders from customers and depeleting inventory accordingly. 
+Bamazon is an "Amazon-like" storefront web application built by using back-end technologies. It has a Command-Line Interface (CLI)
+and hooks into an SQL database. It takes in customers orders and automatically depelets the stock from the store inventory. 
+
+[Giphy Video] (https://giphy.com/embed/Up1bkwPNEYBM1x1Tff)
+
+[Bamazon] (https://media.giphy.com/media/Up1bkwPNEYBM1x1Tff/giphy.gif)
 
 ## Installation
 
-GitHub Link: https://github.com/ItsLahRee/Bamazon
+ Follow instructios to install NPM locally: 
+  > [Node Package Manager] (https://nodejs.org/en/download/package-manager/)
+
+Run 
+   > $ npm install mysql
 
 ## Usage
 
-Node.js, MySQL, Inquirer npm pkg, Javascript
-
-GIF of Bamazon CLI: https://media.giphy.com/media/Up1bkwPNEYBM1x1Tff/giphy.gif
-
-## Contributing
-Pull requests are welcome, if you'd like to contribute.
+This is a store app used track stock quantities. Showcases back-end technologies: Node.JS, NPM, MySQL. Built by Laurie Strecker during UW Full-Stack Web Development Bootcamp in 2019. 
 
 ## License
-ItsLahRee 2019
+
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ===================================================================================
 #
