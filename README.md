@@ -6,19 +6,19 @@ and hooks into an SQL database. It takes in customers orders and automatically d
 
 Check it out:
 
-[Giphy Video](https://giphy.com/embed/Up1bkwPNEYBM1x1Tff)
+![Giphy Video](https://giphy.com/embed/Up1bkwPNEYBM1x1Tff)
 
-[Bamazon](https://media.giphy.com/media/Up1bkwPNEYBM1x1Tff/giphy.gif)
+![Bamazon](https://media.giphy.com/media/Up1bkwPNEYBM1x1Tff/giphy.gif)
 
 ## Installation
 
 Install Node.js locally: 
 
-  > [Node.js](https://nodejs.org/en/download/package-manager/)
+  > [Click to install Node.js](https://nodejs.org/en/download/package-manager/)
 
 Install npm: 
 
- > [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+ > [Click to install npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
  > Run: npm install npm -g
 
 Install MySQL:  
