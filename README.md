@@ -8,7 +8,7 @@ My Working Version:
 
 ![Bamazon](https://media.giphy.com/media/Up1bkwPNEYBM1x1Tff/giphy.gif)
 
-[See it live!]( https://lauriestrecker.github.io/Bamazon/)
+[See it live!](https://lauriestrecker.github.io/Bamazon/)
 
 ## Installation
 
